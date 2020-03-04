@@ -67,4 +67,5 @@ House::~House()
 	}
 
 	current = nullptr;
+	start = nullptr;
 }
